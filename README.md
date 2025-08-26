@@ -1,8 +1,8 @@
-# 👋 Hello, I'm Daniel Corneschi
+## 👋 Hello, I'm Daniel Corneschi
 
 Welcome to my GitHub profile! I'm a passionate IT professional with expertise in cloud infrastructure, networking, and automation.
 
-## 🏆 Professional Certifications
+### 🏆 Professional Certifications
 
 <div align="center">
   
@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate IT professional with expertise in
 
 </div>
 
-## 📊 GitHub Activity
+### 📊 GitHub Activity
 
 <div align="center">
   
@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate IT professional with expertise in
 
 <div align="center">
   
-### 🎯 *"Building reliable infrastructure through automation and best practices"*
+#### 🎯 *"Building reliable infrastructure through automation and best practices"*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dcorneschi&color=blue&style=flat-square&label=Profile+Views)
 ![GitHub followers](https://img.shields.io/github/followers/dcorneschi?style=social)
