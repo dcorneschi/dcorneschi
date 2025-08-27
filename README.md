@@ -35,8 +35,6 @@ Welcome to my GitHub profile! I'm a passionate IT professional with expertise in
 <br clear="left"/>
 
 <div align="center">
-
----
   
 #### 🎯 *"Building reliable infrastructure through automation and best practices"*
 
