@@ -25,7 +25,18 @@ Welcome to my GitHub profile! I'm a passionate IT professional with expertise in
 
 </div>
 
+### 📚 Currently Reading
+
+<img src="https://m.media-amazon.com/images/I/61yB4mVu3PL._SL1360_.jpg" width="120" align="left" alt="GitHub Actions Cookbook"/>
+
+**"GitHub Actions Cookbook"** by Michael Kaufmann  
+*A practical guide to automating repetitive tasks and streamlining your development process*
+
+<br clear="left"/>
+
 <div align="center">
+
+---
   
 #### 🎯 *"Building reliable infrastructure through automation and best practices"*
 
