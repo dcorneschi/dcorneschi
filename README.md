@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm a passionate IT professional with expertise in
 
 <br clear="left"/>
 
-### Support
+### 🤝 Support
 
 If you find this project helpful and would like to support its development, consider buying me a coffee! Your support helps me maintain and improve this project.
 
