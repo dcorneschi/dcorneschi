@@ -27,10 +27,10 @@ Welcome to my GitHub profile! I'm a passionate IT professional with expertise in
 
 ### 📚 Currently Reading
 
-<img src="https://m.media-amazon.com/images/I/812ZXf3CJIL._SL1500_.jpg" width="120" align="left" alt="GitHub Actions Cookbook"/>
-
 **"Managing Kubernetes Resources Using Helm"**  
 *Simplifying how to build, package, and distribute applications for Kubernetes*
+
+<img src="https://m.media-amazon.com/images/I/812ZXf3CJIL._SL1500_.jpg" width="220" align="left" alt="GitHub Actions Cookbook"/>
 
 <br clear="left"/>
 
