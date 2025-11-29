@@ -57,6 +57,6 @@ If you find this project helpful and would like to support its development, cons
 
 <div align="center">
 
-*Last updated: August 2025*
+*Last updated: November 2025*
 
 </div>
