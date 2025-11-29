@@ -27,10 +27,10 @@ Welcome to my GitHub profile! I'm a passionate IT professional with expertise in
 
 ### 📚 Currently Reading
 
-<img src="https://m.media-amazon.com/images/I/61yB4mVu3PL._SL1360_.jpg" width="120" align="left" alt="GitHub Actions Cookbook"/>
+<img src="https://m.media-amazon.com/images/I/812ZXf3CJIL._SL1500_.jpg" width="120" align="left" alt="GitHub Actions Cookbook"/>
 
-**"GitHub Actions Cookbook"** by Michael Kaufmann  
-*A practical guide to automating repetitive tasks and streamlining your development process*
+**"Managing Kubernetes Resources Using Helm"**  
+*Simplifying how to build, package, and distribute applications for Kubernetes*
 
 <br clear="left"/>
 
