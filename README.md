@@ -17,14 +17,6 @@ Welcome to my GitHub profile! I'm a passionate IT professional with expertise in
 
 </div>
 
-### 📊 GitHub Activity
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dcorneschi&show_icons=true&theme=one_dark_pro&hide_border=true&count_private=false)
-
-</div>
-
 ### 📚 Currently Reading
 
 **Managing Kubernetes Resources Using Helm**  
