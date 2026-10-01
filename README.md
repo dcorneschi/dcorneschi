@@ -1,3 +1,6 @@
+
+<img src="github-banner.svg">
+
 ## 👋 Hello, I'm Daniel Corneschi
 
 Welcome to my GitHub profile! I'm a passionate IT professional with expertise in cloud infrastructure, networking, and automation.
