@@ -16,15 +16,6 @@ Welcome to my GitHub profile! I'm a passionate IT professional with expertise in
 ![HP-UX](https://img.shields.io/badge/HP-HP--UX%2011i%20v3%20Administrator-0096D6?style=for-the-badge&logo=hp&logoColor=white)
 ![ITIL](https://img.shields.io/badge/PeopleCert-ITIL%20Foundation-FF6B35?style=for-the-badge)
 
-### 📚 Currently Reading
-
-**Managing Kubernetes Resources Using Helm**  
-*Simplifying how to build, package, and distribute applications for Kubernetes*
-
-<img src="https://m.media-amazon.com/images/I/81Cj9YQay0L._SL1500_.jpg" width="220" align="left" alt="GitHub Actions Cookbook"/>
-
-<br clear="left"/>
-
 ### 🤝 Support
 
 If you find this project helpful and would like to support its development, consider buying me a coffee! Your support helps me maintain and improve this project.
