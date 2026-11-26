@@ -5,17 +5,16 @@ Welcome to my GitHub profile! I'm a passionate IT professional with expertise in
 ### 🏆 Professional Certifications
 
 <div align="center">
-  
-[![RHCE Certified](https://img.shields.io/badge/Red%20Hat-RHCE-EE0000?style=for-the-badge&logo=redhat&logoColor=white)](https://www.redhat.com/en/services/certification)
-[![CCNA Certified](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html)
-[![Terraform Associate](https://img.shields.io/badge/HashiCorp-Terraform%20Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.hashicorp.com/certification/terraform-associate)
-[![AWS SysOps Associate](https://img.shields.io/badge/AWS-SysOps%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/certified-sysops-admin-associate/)
 
-[![IBM AIX Certified](https://img.shields.io/badge/IBM-AIX%20Certified-1261FE?style=for-the-badge&logo=ibm&logoColor=white)](https://www.ibm.com/certify/)
-[![HP-UX Certified](https://img.shields.io/badge/HP-UX%20Certified-0096D6?style=for-the-badge&logo=hp&logoColor=white)](https://www.hpe.com/us/en/services/training.html)
-[![ITIL Certified](https://img.shields.io/badge/ITIL-Certified-FF6B35?style=for-the-badge&logo=itil&logoColor=white)](https://www.axelos.com/certifications/itil-service-management)
-
-</div>
+![AWS Solutions Architect](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge)
+![AWS SysOps](https://img.shields.io/badge/AWS-SysOps%20Administrator%20Associate-FF9900?style=for-the-badge)
+![Terraform](https://img.shields.io/badge/HashiCorp-Terraform%20Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![RHCE](https://img.shields.io/badge/Red%20Hat-RHCE%20%C2%B7%20RHEL%205-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![CCNA](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-Fundamentals-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![IBM AIX](https://img.shields.io/badge/IBM-AIX%206.1%20System%20Administrator-1261FE?style=for-the-badge)
+![HP-UX](https://img.shields.io/badge/HP-HP--UX%2011i%20v3%20Administrator-0096D6?style=for-the-badge&logo=hp&logoColor=white)
+![ITIL](https://img.shields.io/badge/PeopleCert-ITIL%20Foundation-FF6B35?style=for-the-badge)
 
 ### 📚 Currently Reading
 
